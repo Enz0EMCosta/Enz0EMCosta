@@ -1,6 +1,6 @@
 # 👨‍💻 Enzo Maia
 
-**`Desenvolvedor Web Front e Back`**
+**`Desenvolvedor Web - Back-End e Front-End`**
 
 Programador e web-desenvolvedor júnior apaixonado por tecnologia e que preza pelo esforço e aprendizado em seus projetos. Busco oportunidades que me proporcionem aplicar meu pensamento analítico e desenvolver soluções inovadoras, impulsionando meu crescimento profissional por meio de desafios na área da tecnologia.
 
